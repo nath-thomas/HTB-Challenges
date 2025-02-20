@@ -1,4 +1,4 @@
-Path traversal is really hard one you hit the following error:
+Path traversal is really hard once you hit the following error:
 ```
 OSError: [Errno 36] File name too long
 ```
